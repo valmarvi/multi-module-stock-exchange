@@ -4,18 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="660dc483-7b46-4511-9368-f1ccc0669e56" name="Changes" comment="Initial Commit">
+    <list default="true" id="660dc483-7b46-4511-9368-f1ccc0669e56" name="Changes" comment="Cofiguration">
+      <change afterPath="$PROJECT_DIR$/interfaces/src/main/java/com/switchfully/ExternalStockInformationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interfaces/src/main/java/com/switchfully/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/switchfully/StockExchangeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/com/switchfully/StockExchangeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/src/main/java/com/switchfully/Stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/domain/src/main/java/com/switchfully/Stock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/src/main/java/com/switchfully/StockCurrency.java" beforeDir="false" afterPath="$PROJECT_DIR$/domain/src/main/java/com/switchfully/StockCurrency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/src/main/java/com/switchfully/StockPrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/domain/src/main/java/com/switchfully/StockPrice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/src/main/java/com/switchfully/StockRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/domain/src/main/java/com/switchfully/StockRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interfaces/src/main/java/com/switchfully/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/interfaces/src/main/java/com/switchfully/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interfaces/src/main/java/com/switchfully/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/service/src/main/java/com/switchfully/StockService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/src/main/java/com/switchfully/StockService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/switchfully/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/switchfully/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +50,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/_development/maven-multi-model-project",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -77,7 +72,16 @@
       <option name="presentableId" value="Default" />
       <updated>1678909650395</updated>
       <workItem from="1678909651571" duration="2621000" />
+      <workItem from="1678952894291" duration="4002000" />
     </task>
+    <task id="LOCAL-00001" summary="Cofiguration">
+      <created>1678952999956</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678952999956</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +89,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Cofiguration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cofiguration" />
   </component>
 </project>
