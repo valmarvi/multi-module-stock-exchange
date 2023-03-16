@@ -1,2 +1,4 @@
-package com.switchfully;public class StockExchangeController {
+package com.switchfully;
+
+public class StockExchangeController {
 }

@@ -4,11 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="660dc483-7b46-4511-9368-f1ccc0669e56" name="Changes" comment="" />
+    <list default="true" id="660dc483-7b46-4511-9368-f1ccc0669e56" name="Changes" comment="Initial Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/switchfully/StockExchangeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/com/switchfully/StockExchangeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain/src/main/java/com/switchfully/Stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/domain/src/main/java/com/switchfully/Stock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain/src/main/java/com/switchfully/StockCurrency.java" beforeDir="false" afterPath="$PROJECT_DIR$/domain/src/main/java/com/switchfully/StockCurrency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain/src/main/java/com/switchfully/StockPrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/domain/src/main/java/com/switchfully/StockPrice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain/src/main/java/com/switchfully/StockRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/domain/src/main/java/com/switchfully/StockRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interfaces/src/main/java/com/switchfully/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/interfaces/src/main/java/com/switchfully/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/main/java/com/switchfully/StockService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/src/main/java/com/switchfully/StockService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/switchfully/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/switchfully/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -27,10 +53,21 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.switchfully" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,7 +76,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678909650395</updated>
+      <workItem from="1678909651571" duration="2621000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>
